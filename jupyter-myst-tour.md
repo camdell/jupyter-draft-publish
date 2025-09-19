@@ -121,9 +121,10 @@ Air
 
 ### Footnotes
 
-Lets add a footnote[^footnote-1]
+Lets add a footnote[^footnote-1] and another [^footnote-2]
 
 [^footnote-1]: Here is a comment/footnote about the referenced text
+[^footnote-2]: Here is another comment/footnote about the referenced text
 
 +++
 
