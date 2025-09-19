@@ -1,2 +1,3 @@
 # pixi environments
-.pixi
+.pixi/
+.ipynb_checkpoints/
